@@ -8,4 +8,3 @@ This github repository will be used to accompany my ransomware project for my fi
 - Generation of cryptographic keys
 - File encryption
 - Ransom note creation
-- Private key transfering via sftp
