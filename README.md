@@ -25,3 +25,13 @@ Arquivo que calcula o tempo entre execução e exclusão do arquivo malicioso.
 #### timeExtracted.py
 
 Arquivo que calcula o tempo entre extração e exclusão do arquivo malicioso.
+
+### evidences
+
+Esse diretório contém as métricas utilizadas para calcular o consumo dos antimalwares.
+
+O arquivos Analysis.xlsx contém os registros de tempo dessas métricas, como também os tempos de detecção registradas pelo dos scripts.
+
+### e-mail
+
+Contém os arquivos utilizados na seção de phishing do artigo.
